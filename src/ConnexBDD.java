@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.ArrayList;
 
-// Ceci est un commentaire test pour Git !
+// Test commentaire pour troisième commit !
 
 public class ConnexBDD {
 	static Connection connect = null;
