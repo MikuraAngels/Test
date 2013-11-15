@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.ArrayList;
 
-// Test de commit avec eclipse (EGit) !
+// Test2 de commit avec eclipse (EGit) !
 
 public class ConnexBDD {
 	static Connection connect = null;
