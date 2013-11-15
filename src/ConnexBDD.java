@@ -1,6 +1,8 @@
 import java.sql.*;
 import java.util.ArrayList;
 
+// Ceci est un commentaire test pour Git !
+
 public class ConnexBDD {
 	static Connection connect = null;
 	private static ArrayList <Contact> mesContacts;
